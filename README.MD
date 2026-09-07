@@ -112,20 +112,16 @@ It evaluates every view under `renders/`, writes per-image and average PSNR / DS
 If you find this work useful, please cite:
 
 ```bibtex
-@article{wu_atgs,
-  author     = {Wu, Jiahao and Liang, Jie and Hu, Die and Yang, Jiayu and Xiong, Kaiqiang and Li, Xiang and Zheng, Xiaoyun and Wang, Chao and Wang, Ronggang},
-  title      = {ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation},
-  year       = {2026},
-  issue_date = {July 2026},
-  publisher  = {Association for Computing Machinery},
-  address    = {New York, NY, USA},
-  volume     = {45},
-  number     = {4},
-  issn       = {0730-0301},
-  doi        = {10.1145/3811306},
-  journal    = {ACM Trans. Graph.},
-  articleno  = {110},
-  numpages   = {13},
+@article{wu2026atgs,
+  author  = {Wu, Jiahao and Liang, Jie and Hu, Die and Yang, Jiayu and Xiong, Kaiqiang and Li, Xiang and Zheng, Xiaoyun and Wang, Chao and Wang, Ronggang},
+  title   = {ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation},
+  journal = {ACM Transactions on Graphics},
+  volume  = {45},
+  number  = {4},
+  pages   = {110:1--110:13},
+  year    = {2026},
+  doi     = {10.1145/3811306},
+  publisher = {Association for Computing Machinery}
 }
 ```
 
